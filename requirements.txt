@@ -1,0 +1,7 @@
+streamlit
+feedparser
+requests
+yfinance
+pandas
+python-dotenv
+matplotlib
